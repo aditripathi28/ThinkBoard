@@ -3,6 +3,11 @@
 ThinkBoard is a full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to create, manage, and delete personal notes.
 It features a clean UI, rate limiting for API requests, and persistence via MongoDB.
 
+## 📸 Screenshot
+
+![ThinkBoard Screenshot](./assets/Screenshot.png)
+
+
 ## ⚡ Features
 
 - ➕ Create new notes
