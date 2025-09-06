@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
-import Navbar from "../components/Navbar";
-import RateLimitedUI from "../components/RateLimitedUI";
-import api from "../lib/axios";
+import Navbar from "../components/Navbar.jsx";
+import RateLimitedUI from "../components/RateLimitedUI.jsx";
+import api from "../lib/axios.js";
 import { toast } from "react-hot-toast";
-import NoteCard from "../components/NoteCard";
-import NotesnotFound from "../components/NotesnotFound";
+import NoteCard from "../components/NoteCard.jsx";
+import NotesnotFound from "../components/NotesnotFound.jsx";
 
 
 
